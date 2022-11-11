@@ -8,7 +8,7 @@
   
  - 🗺️ Meu nome é Guilherme Keslley e tenho 17 anos. Atualmente moro na Bahia, Brasil.<br>
   
- - ⚡: No meu tempo livre gosto de resolver problemas e criar projetos.
+ - ⚡ No meu tempo livre gosto de resolver problemas e criar projetos.
   
  - 📖 Stacks: HTML - CSS - Javascript - UX/UI Design.
   
