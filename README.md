@@ -1,9 +1,12 @@
+<div align="left">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=GKeslley&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GKeslley&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true"/>
+</div>
+
 ## Sobre mim
 <p align="justify">
   
- - 🗺️ Meu nome é Guilherme Keslley. Atualmente moro na Bahia, Brasil.<br>
-  
- - 🧑‍ 17 anos.<br>
+ - 🗺️ Meu nome é Guilherme Keslley e tenho 17 anos. Atualmente moro na Bahia, Brasil.<br>
   
  - ⚡: No meu tempo livre gosto de resolver problemas e criar projetos.
   
@@ -11,7 +14,8 @@
   
  - 🧠 Irei ser um desenvolvedor Full Stack.
   
-  - 💻 Estou fazendo um curso técnico no <a href="https://www.senaibahia.com.br/"> Senai </a> de Desenvolvimento de Sistemas
+  - 💻 Estou fazendo um curso técnico no <a href="https://www.senaibahia.com.br/"> Senai - BA </a> de Desenvolvimento de Sistemas
+  
 </p>
 
 ## Curiosidades
@@ -36,10 +40,5 @@
 <p align="justify">
 <a href="https://www.instagram.com/guilhermekeslley"><img src="https://img.shields.io/badge/guilhermekeslley-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
 </p>
-
-<div align="left">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=GKeslley&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula"/>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GKeslley&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true"/>
-</div>
 
 [![@gkeslley's Holopin board](https://holopin.me/gkeslley)](https://holopin.io/@gkeslley)
