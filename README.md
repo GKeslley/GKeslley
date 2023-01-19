@@ -1,8 +1,3 @@
-<div align="left">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=GKeslley&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true"/>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GKeslley&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true"/>
-</div>
-
 ## Sobre mim
 <p align="justify">
   
