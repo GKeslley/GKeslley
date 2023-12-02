@@ -27,8 +27,10 @@
 ## Techs && Skills
 <p align="justify">
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
- <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
- <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+ <img alt="PHP" src="https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php"/>
+ <img alt="Laravel" src="https://img.shields.io/badge/laravel-%230d1117.svg?style=for-the-badge&logo=laravel"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
 </p>
 
 ## Social && Contatos
