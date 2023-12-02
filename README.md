@@ -5,7 +5,7 @@
   
  - ⚡ No meu tempo livre gosto de resolver problemas e criar projetos.
   
- - 📖 Stacks: Javascript - React - PHP - Laravel - MYSQL.
+ - 📖 Stacks: Javascript - React - PHP - Laravel - MySQL.
   
  - 🧠 Irei ser um desenvolvedor Full Stack.
   
