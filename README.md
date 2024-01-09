@@ -9,7 +9,7 @@
   
  - 🧠 Irei ser um desenvolvedor Full Stack.
   
-  - 💻 Estou fazendo um curso técnico no <a href="https://www.senaibahia.com.br/"> Senai - BA </a> de Desenvolvimento de Sistemas
+  - 💻 Formado no Curso Técnico do Senai em <a href="https://www.senaibahia.com.br/"> Desenvolvimento de Sistemas
   
 </p>
 
