@@ -7,8 +7,6 @@
   
  - 📖 Stacks: Javascript - React - PHP - Laravel - MySQL.
   
- - 🧠 Irei ser um desenvolvedor Full Stack.
-  
   - 💻 Formado no Curso Técnico do Senai em <a href="https://www.senaibahia.com.br/"> Desenvolvimento de Sistemas
   
 </p>
